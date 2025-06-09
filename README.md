@@ -23,6 +23,19 @@ How to structure your tutorial:
 **Image**
 `![description](images/<filename>.png)`
 
+Example file:
+```markdown
+# My tutorial
+
+This is a paragraph.
+
+This is a paragraph.
+
+![description](images/getting-started-welcome-1.png)
+
+This is a paragraph.
+```
+
 ## Planned articles
 Basically whatever tutorials Farmer Cop made for Farming Simulator 25.
 
