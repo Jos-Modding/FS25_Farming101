@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="99">
+    <author>Jos, Farmer Cop</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Farming 101</en>
+    </title>
+    <description>
+        <en><![CDATA[Farming 101 provides more in-depth guides on the topics of Farming Simulator.]]></en>
+    </description>
+    <iconFilename>icon_template.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <l10n filenamePrefix="translations/l10n"/>
+      <helpLines>
+    <category title="$l10n_tutorial_01-getting-started" iconFilename="icons/icon_tutorial.dds">
+      <page title="$l10n_tutorial_01-getting-started_001-welcome">
+        <paragraph>
+          <title text="$l10n_tutorial_01-getting-started_001-welcome_001"/>
+          <text text="$l10n_tutorial_01-getting-started_001-welcome_002"/>
+        </paragraph>
+        <paragraph>
+          <text text="$l10n_tutorial_01-getting-started_001-welcome_003"/>
+        </paragraph>
+        <paragraph>
+          <text text="$l10n_tutorial_01-getting-started_001-welcome_004"/>
+        </paragraph>
+      </page>
+      <page title="$l10n_tutorial_01-getting-started_002-first-steps">
+        <paragraph>
+          <title text="$l10n_tutorial_01-getting-started_002-first-steps_001"/>
+          <text text="$l10n_tutorial_01-getting-started_002-first-steps_002"/>
+        </paragraph>
+        <paragraph>
+          <text text="$l10n_tutorial_01-getting-started_002-first-steps_003"/>
+        </paragraph>
+        <paragraph>
+          <text text="$l10n_tutorial_01-getting-started_002-first-steps_004"/>
+        </paragraph>
+      </page>
+    </category>
+    <category title="$l10n_tutorial_02-crops" iconFilename="icons/icon_tutorial.dds">
+      <page title="$l10n_tutorial_02-crops_001-welcome">
+        <paragraph>
+          <title text="$l10n_tutorial_02-crops_001-welcome_001"/>
+          <text text="$l10n_tutorial_02-crops_001-welcome_002"/>
+        </paragraph>
+        <paragraph>
+          <text text="$l10n_tutorial_02-crops_001-welcome_003"/>
+        </paragraph>
+        <paragraph>
+          <text text="$l10n_tutorial_02-crops_001-welcome_004"/>
+        </paragraph>
+      </page>
+      <page title="$l10n_tutorial_02-crops_002-first-steps">
+        <paragraph>
+          <title text="$l10n_tutorial_02-crops_002-first-steps_001"/>
+          <text text="$l10n_tutorial_02-crops_002-first-steps_002"/>
+        </paragraph>
+        <paragraph>
+          <text text="$l10n_tutorial_02-crops_002-first-steps_003"/>
+        </paragraph>
+        <paragraph>
+          <text text="$l10n_tutorial_02-crops_002-first-steps_004"/>
+        </paragraph>
+      </page>
+    </category>
+  </helpLines>
+</modDesc>

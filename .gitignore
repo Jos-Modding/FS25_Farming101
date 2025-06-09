@@ -1,0 +1,7 @@
+.idea
+_*
+*.md
+!README.md
+*.zip
+node_modules
+vendor
